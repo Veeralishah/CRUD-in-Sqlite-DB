@@ -1,10 +1,6 @@
 # CRUD-in-Sqlite-DB
 Dynamic CRUD operation in Sqlite Database using Python Script 
 
-# Project Title
-
-CRUD Opeartions Working Dynamically in Sqlite Database using Python Script.
-
 ## Getting Started
 
 First, You Can run Main file, Thne User Input for What Operation do like Create table, Update Record, Delete Record & Show Table Data.
